@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 欢迎来到我的 GitHub！
 
-<!--
-**Alpha-Auxiliary/Alpha-Auxiliary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “代码如诗，Bug如命” ——某位凌晨两点还在 debug 的程序员
 
-Here are some ideas to get you started:
+你好，我是 Rust（不是编程语言那个）👨‍💻  
+这里是我折腾代码、搞事情、和删库跑路（开玩笑）的小窝。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 关于我
+
+- 🚀 计算机网络专业 / 软件工程预备役
+- 🧩 热爱捣鼓 Web、数据库、AI、还有点前端强迫症
+- 💥 理论上会 C/C++/Java/前端，实际上会 Google 和 Ctrl+C/V
+- 🍜 喜欢一边撸代码一边幻想人生逆袭
+- 🤯 正在与 BUG 和 deadline 斗智斗勇
+
+---
+
+## 🔨 正在忙的项目
+
+| 项目名 | 描述 | 状态 |
+|--------|------|------|
+| `个人知识管理系统` | 一个能升学、能展示、能炫技的全栈项目 | 🚧 开发中... |
+| `链上追溯系统` | 用区块链整活农产品 | 🧪 实验中 |
+| `青春回忆模拟器` | 把小说改成游戏，走心也走肝 | 💡 灵感开发中 |
+
+---
+
+## 🛠️ 技术栈（杂技团）
+
+- 💻 语言：C / C++ / Java / JavaScript / Python（偶尔 Rust）
+- 🧱 框架：Spring Boot / Vue / Express / Tailwind CSS
+- 🗃️ 数据库：MySQL / SQLite / MongoDB（取决于心情）
+- ☁️ 云&部署：GitHub Pages / Vercel / 自建服务器（偶尔本地跑着图一乐）
+
+---
+
+## 📈 Github 不是晒分平台，但我忍不住...
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
+
+---
+
+## 🤝 社交但不社恐
+
+- 💬 微信公众号：开发中...
+- 💡 如果你看懂了我写的代码，我们已经是灵魂伴侣了
+- 🍻 如果你喜欢我的项目，那就点个 Star 吧，没准我今晚就加班更新！
+
+---
+
+> “生活不止眼前的代码，还有电脑旁的泡面和半夜的灵感。”
+
+---
+
+📝 *README 最后的彩蛋*：  
+如果你看到了这里，那说明你是真的闲，祝你 Bug 少一点，工资多一点，生活甜一点！
+
