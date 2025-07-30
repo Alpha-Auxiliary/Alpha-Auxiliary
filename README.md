@@ -36,12 +36,6 @@
 
 ---
 
-## 📈 Github 不是晒分平台，但我忍不住...
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
-
----
-
 ## 🤝 社交但不社恐
 
 - 💬 微信公众号：开发中...
