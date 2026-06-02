@@ -44,7 +44,6 @@
   <img src="./profile/top-langs.svg" alt="Alpha-Auxiliary 常用语言" height="180" />
 </p>
 
-> 这些卡片由 GitHub Actions 自动生成并缓存到本仓库，避免 README 每次打开都请求公共 `github-readme-stats.vercel.app` 服务。
 
 ---
 
