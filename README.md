@@ -39,7 +39,12 @@
 
 ## 📊 GitHub 数据速递
 
-![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=Alpha-Auxiliary&show_icons=true&theme=dark)
+<p align="center">
+  <img src="./profile/stats.svg" alt="Alpha-Auxiliary GitHub 统计" height="180" />
+  <img src="./profile/top-langs.svg" alt="Alpha-Auxiliary 常用语言" height="180" />
+</p>
+
+> 这些卡片由 GitHub Actions 自动生成并缓存到本仓库，避免 README 每次打开都请求公共 `github-readme-stats.vercel.app` 服务。
 
 ---
 
