@@ -11,9 +11,9 @@
 - 关注方向：AI 工具应用、开发效率、后端服务、前端工程化与自动化工作流
 - 编程语言：C / C++ / Java / Python / Rust
 - 前端技术：Vue / JavaScript / TypeScript / HTML / CSS
-- 后端技术：Spring Boot / Node.js
+- 后端技术：Spring Boot 
 - 数据库：MySQL
-- 开发工具：VSCode / Git / GitHub Actions
+- 开发工具：VSCode / Git 
 
 我也对物理、电影、策略游戏和旅行保持长期兴趣。技术之外的输入，常常会反过来影响我理解问题、设计系统和表达想法的方式。
 
