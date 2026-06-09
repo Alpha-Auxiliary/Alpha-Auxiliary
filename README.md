@@ -26,8 +26,6 @@
   <img src="./profile/top-langs.svg" alt="Alpha-Auxiliary 常用语言" height="180" />
 </p>
 
-这些卡片由 GitHub Actions 自动生成并缓存到本仓库，用于降低外部服务不可用时对 README 展示效果的影响。
-
 ---
 
 ## 协作与交流
